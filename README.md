@@ -15,7 +15,7 @@ library(ggplot2)
 library(ggpubr)
 ```
 
-2.  set working directory and load functions
+2.  Set working directory and load functions
 ```
 setwd("./Data-Visualisation/")
 source("./scripts/phyloseq_ordination.R")
