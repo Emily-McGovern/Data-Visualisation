@@ -1,7 +1,7 @@
 
 # Data visualisation in R 
 
-Easy generation of ordination plots from [Qiime2](https://docs.qiime2.org/2020.2/tutorials/moving-pictures/) using [phyloseq](https://github.com/joey711/phyloseq) package. The code uses moving pictures tutorial output as an example. 
+Easy generation of ordination plots from [Qiime2](https://docs.qiime2.org/2020.2/tutorials/moving-pictures/) using [phyloseq](https://github.com/joey711/phyloseq) package. The code uses [moving pictures](https://docs.qiime2.org/2020.2/tutorials/moving-pictures/) tutorial output as an example. 
 
 PCoA plots are first generated to visualise the change in bacterial community compostition for reported antibiotic use for each body site in the example dataset. 
 
