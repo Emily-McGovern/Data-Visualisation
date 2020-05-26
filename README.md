@@ -24,7 +24,7 @@ source("./scripts/phyloseq_ordination.R")
 ```
 colors<- c("#ff0078", "#00c5ff","#7fe2ff", "#b2edff")
 ```
-4. Load example data (moving pictures tutorial)
+4. Load example data [moving pictures](https://docs.qiime2.org/2020.2/tutorials/moving-pictures/) using [qiime2R package](https://github.com/jbisanz/qiime2R)
 ```
 phy_obj<-qza_to_phyloseq("table.qza", "rooted-tree.qza", "taxonomy.qza", "sample-metadata.tsv", tmp="tmpdir")
 ```
